@@ -1,0 +1,33 @@
+.navLogo{
+ width:100px;
+ height:180px;
+}
+
+
+.super {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ gap: 6px;
+ cursor: pointer;
+ font-size: 17px;
+ padding: 6px 10px;
+ margin-right: 10px;
+
+}
+
+.notfacation {
+    margin-right: 15px;
+    margin-bottom: 6px; 
+ 
+}
+.select {
+ background: transparent;
+ border: none;
+ color: hashtag#00315E; 
+ font-size: 17px;
+ outline: none;
+ font-weight: 500;
+
+}
+

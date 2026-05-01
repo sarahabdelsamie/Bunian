@@ -1,0 +1,48 @@
+.navbar {
+ padding: 50px 50px;
+
+ 
+}
+
+.navlogo {
+ width: 150px;
+}
+
+.links a {
+ text-decoration: none;
+ color: black;
+ font-weight: 400;
+}
+
+.links a:hover {
+ color: hashtag#01A84D;
+}
+
+.register {
+ border: none;
+ background: transparent;
+ color: hashtag#01A84D;
+ font-weight: 500;
+}
+
+.signup {
+ border: none;
+ background: transparent;
+ color: hashtag#01A84D;
+ font-weight: 500;
+}
+.register:hover,
+.signup:hover{
+ background-color: hashtag#01A84D;
+ color: #01A84D;
+ padding: 5px 5px;
+ border-radius: 8px;
+}
+.link:hover {
+    color: #00a651;
+}
+
+.activeLink {
+    color: #00a651;
+    font-weight: 600;
+}
